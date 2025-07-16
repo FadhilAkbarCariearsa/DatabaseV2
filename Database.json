@@ -1,7 +1,7 @@
 {
-  "Button A": "Menyerang musuh.",
-  "Button B": "Bertahan.",
-  "Button Start": "Memulai game.",
-  "Gacha": "Acak hadiah.",
-  "Help": "Bantuan penggunaan bot."
+  "Button": "Menyerang musuh.",
+  "Image": "Bertahan.",
+  "Paragraph": "Memulai game.",
+  "Link": "Acak hadiah.",
+  "Idk": "Bantuan penggunaan bot."
 }
